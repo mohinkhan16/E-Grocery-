@@ -12,9 +12,9 @@ This project is a static E-Grocery Super Market webpage built using HTML5 and CS
 ✔️ Price & rating section on each product card
 ✔️ Clean spacing and image placement.
 
-🧱 Tech Stack Used
+🧱 Tech Stack Used:-
 
-HTML5 – Page structure:-
+HTML5 – Page structure
 
 CSS3 – Styling only (no media queries, no responsiveness)
 Font Awesome – Icons for UI details.
