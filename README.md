@@ -35,13 +35,15 @@ Font Awesome – Icons for UI details.
   🖼️ Project Preview:-
   <img width="1358" height="2050" alt="grosery" src="https://github.com/user-attachments/assets/c07d293c-820d-4d36-9b67-12a831de48d1" />
 
-🚀 How to Run
+🚀 How to Run:-
+
 Download or clone the repository
 Make sure the Assets folder remains in the same directory
 Open index.html in any browser
 Page will load in desktop layout only
 
-🎯 What I Learned
+🎯 What I Learned:-
+
 Designing a static webpage layout
 Creating card-based product UI
 Working with buttons, labels, and spacing
