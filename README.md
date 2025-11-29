@@ -31,6 +31,7 @@ Font Awesome – Icons for UI details.
 │      ├── product-img-6.jpg
 │      ├── product-img-7.jpg
 │      └── product-img-8.jpg
+ 
   🖼️ Project Preview:-
   <img width="1358" height="2050" alt="grosery" src="https://github.com/user-attachments/assets/c07d293c-820d-4d36-9b67-12a831de48d1" />
 
